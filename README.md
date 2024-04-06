@@ -1,4 +1,5 @@
 <div align="center">
+    
 # SchubiRat
 
 **IMPORTANT: This is an outdated version of SchubiRat. There might be issues with cookies. If you have the updated version make a pull request.**
