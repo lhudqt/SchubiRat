@@ -1,7 +1,14 @@
+<div align="center">
 # SchubiRat
 
-![Schubi](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
+**IMPORTANT: This is an outdated version of SchubiRat. There might be issues with cookies. If you have the updated version make a pull request.**
 
+**Credits:**
+
+[Majanito](https://github.com/Majanito)
+[BattleB0t](https://github.com/BattleB0t)
+
+</div>
 
 # Features
 - Impossible to delete the webhook
