@@ -43,6 +43,7 @@ Host on a VPS
    5. Run `server/main.py`
 #### OR
 Host on [render](https://render.com)
+    (this might not work on render bc now render requires kyc or cc info ig)
    1. Make a private fork of this repository
    2. Edit `server/config.json` to your liking
    3. Create a new render account with the GitHub account you forked the repository with
